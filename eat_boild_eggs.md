@@ -13,15 +13,19 @@ flowchart TD
     id3-2["殻を割る"]
     id3-3["塩を振る"]
 
-    goal --> id1
-    goal --> id2
-    goal --> id3
+    subgraph "目的"
+        goal
+    end
+        goal --> id1
+        goal --> id2
+        goal --> id3
 
     subgraph "大まかな計画"
         id1
         id2
         id3
     end
+    
     subgraph "アクティビティ"
         id1 --> id1-1
         id1 --> id1-2
