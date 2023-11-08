@@ -4,7 +4,7 @@
 | スーパーで卵を買う <td bgcolor=pink> 太郎 |  <td bgcolor=pink>★ |  |  |  |  |
 | 卵を洗う <td bgcolor=pink> 太郎 |  |  <td bgcolor=pink>★ |  |  |  |
 | お湯を沸かす <td bgcolor=#99FF99> 花子 <td bgcolor=#99FF99>  <td bgcolor=#99FF99>  |  |  |  |  |
-| 卵をゆでる <td bgcolor=#99FF99> 花子 |  |  |  |  <td bgcolor=#99FF99>★ |  |
+| 卵をゆでる <td bgcolor=#99FF99> 花子 |  |  |  <td bgcolor=#99FF99>★ |  |  |
 | 腹筋して腹をへらす <td bgcolor=pink> 太郎 |  |  |  <td bgcolor=pink>   <td bgcolor=pink>   <td bgcolor=pink>   |
 | 殻を割る <td bgcolor=#99FF99> 花子 |  |  |  |  <td bgcolor=#99FF99>★ |  |
 | 塩を振る <td bgcolor=#99FF99> 花子 |  |  |  |  |  <td bgcolor=#99FF99>★
